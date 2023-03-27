@@ -1,11 +1,7 @@
 
-# Home Cybersecurity Lab Report
-
-## **Introduction**
-
 The objective of this project is to set up a basic home cybersecurity lab to gain hands-on experience in various cybersecurity concepts and tools. The lab is set up using VMware, which enables the creation of multiple virtual machines (VMs) to simulate a real-world environment. 
 
-## **Project Goals:**
+## ** Project Goals:**
 
 1. To create a virtualized environment that simulates a SOC analyst's work environment.
 2. To configure and secure an Ubuntu server and a Windows machine.
